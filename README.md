@@ -2,7 +2,7 @@
 - 👀 I’m interested in data area.
 - 🌱 I’m currently learning scala, pyspark, kafka and airflow
 - 💞️ I’m looking to collaborate on open-source projects, in special apache airflow.
-- 📫 How to reach me ...
+- 📫 How to reach me, email: cassianobalatore@gmail.com
 
 <!---
 casnaka/casnaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
